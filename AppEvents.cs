@@ -23,8 +23,7 @@ namespace Facebook.Unity.Example
     using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
-
-
+	
     internal class AppEvents : MenuBase
     {
         protected override void GetGui()
